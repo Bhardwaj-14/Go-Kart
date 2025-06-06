@@ -3,6 +3,7 @@ title: Go Kart
 author: Bhardwaj Prasad Sutara
 description: "A 4 wheeled beast which can literally do anything that a car can do. Drifts, SPEED, doughnuts etc etc etc."
 created_at: "2025-June-6"
+Total time spent on project: ""
 ---
 
 # 6th June
