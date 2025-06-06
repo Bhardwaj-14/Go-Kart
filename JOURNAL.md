@@ -9,4 +9,5 @@ Total time spent on project: ""
 # 6th June
 
 Alright so from now i'll start researhing on making a go kart. I know nothing about this but I am sure that if I make this, this is gonna be wild!
+I am using Cirkit Designer for this project too as I think its pretty easy especially to visualize all the components.
 
